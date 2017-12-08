@@ -1,0 +1,12 @@
+/bin
+/include
+/lib
+/app/**/*.pyc
+/tokenteams/**/*.pyc
+/tokenteams/__pycache__
+/app/migrations
+/static/uploads
+/app/__pycache__
+/app/api/__pycache__
+/app/api/v1/__pycache__
+/app/api/v1/press/__pycache__
